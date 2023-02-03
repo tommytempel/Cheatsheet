@@ -1,0 +1,1 @@
+This project is part is for the Code Academy course. The goal is to create a cheat sheet to reference when building websites. 
