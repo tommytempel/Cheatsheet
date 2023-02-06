@@ -29,3 +29,12 @@ td {
 h1 {
     color: #355e3b;
 }
+
+.webtitle {
+    background-color: #355e3b;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+}
+
